@@ -5775,14 +5775,14 @@ section.u-image:not(.u-hover-box),
 }
 @media (min-width: 992px) and (max-width: 1199px) {
   .u-expanded-width-lg {
-    width: 100% !important;
+    width: 450px !important;
     margin-left: 0 !important;
     margin-right: 0 !important;
   }
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .u-expanded-width-md {
-    width: 100% !important;
+    width: 350px !important;
     margin-left: 0 !important;
     margin-right: 0 !important;
   }
